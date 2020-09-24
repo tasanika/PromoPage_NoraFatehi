@@ -1,7 +1,7 @@
 body{
   background-image: url('nora.jpg');
   background-repeat: no-repeat;
-  background-size: 1400px 1000px;
+  background-size: 100%;
   background-color: black
 
 }
@@ -30,7 +30,7 @@ p{
 }
 
 .video{
-  padding-top: 600px;
+  padding-top: 25%;
   margin-left: 500px;
   margin-right: 100px;
 }
