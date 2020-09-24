@@ -1,0 +1,41 @@
+body{
+  background-image: url('nora.jpg');
+  background-repeat: no-repeat;
+  background-size: 1400px 1000px;
+  background-color: black
+
+}
+.subcontainer{
+  text-align: center;
+  padding-top: 320px;
+  padding-right: 620px;
+}
+
+
+h1{
+  font-family: 'Parisienne', cursive;;
+  font-size: 400%;
+  text-align: center;
+  size: 100px
+  font-color: white
+}
+
+p{
+  font-family: serif;
+  text-align: center;
+  font-size: 200%;
+  letter-spacing: 1px;
+  line-height: 2;
+  color: white
+}
+
+.video{
+  padding-top: 600px;
+  margin-left: 500px;
+  margin-right: 100px;
+}
+.aboutsection{
+  padding-bottom: 30px;
+  font-family: sans-serif;
+  color: white
+}
